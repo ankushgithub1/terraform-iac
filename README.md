@@ -45,8 +45,5 @@ Ensure you have the following installed:
      terraform apply
      ```
 
-## Notes
-- Ensure you have the appropriate IAM permissions in AWS to provision the resources defined in your Terraform configuration.
-- Terraform will ask for confirmation before applying the changes when you run `terraform apply`. Type `yes` to confirm.
 
 
