@@ -1,4 +1,4 @@
-# Terraform AWS Configuration Guide
+# Provisioning a basic web application stack in AWS using Terraform.
 
 ## Prerequisites
 Ensure you have the following installed:
